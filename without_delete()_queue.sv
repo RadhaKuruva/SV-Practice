@@ -5,7 +5,7 @@
 //Method 1
 module del_queue();
 
-  int item_del[$] = {1,2,33,4,5};
+  int item_del[$] = {1,2,3,4,5};
   int item[];
   
   initial
@@ -19,7 +19,7 @@ endmodule
 
 module del_queue();
 
-  int item_del[$] = {1,2,33,4,5};
+  int item_del[$] = {1,2,3,4,5};
   int item[];
   
   initial
