@@ -1,6 +1,6 @@
 // queue is best know for adding and deleting elements 
 // I think without using delete method we cannot use any other method other than pop_front and pop_back 
-// note: will if i find any solution
+// note: will add if i find any solution
 
 //Method 1
 module del_queue();
